@@ -1,4 +1,5 @@
-<img width="60%" height="autp" alt="image" src="https://github.com/user-attachments/assets/57334dee-9115-4ad0-89d9-98adb0fe4ac1" />
+<img width="1184" height="895" alt="image" src="https://github.com/user-attachments/assets/c8874021-e7c8-44da-9fa5-e1374f9c328b" />
+
 
 
 <h1 align="center">Hi, I'm Fauzan <img src="https://bit.ly/3FzRfVz" width="30px"></h1>
