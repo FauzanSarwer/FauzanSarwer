@@ -1,4 +1,8 @@
-<a href="#"><img width="100%" height="auto" align="center" src="https://github.com/user-attachments/assets/6e0c94e0-f9db-4ed4-99f1-70e42bf77d52"/></a>
+<a href="#">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6e0c94e0-f9db-4ed4-99f1-70e42bf77d52" width="100%" height="auto">
+</p>
+</a>
 
 <h1 align="center">Hi, I'm Fauzan <img src="https://bit.ly/3FzRfVz" width="30px"></h1>
 <h3 align="center">I'm a Front-End Web Developer based in India</h3>
