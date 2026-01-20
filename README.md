@@ -1,6 +1,7 @@
 <div align="center">
   <a href="#">
-    <img src="https://github.com/user-attachments/assets/9d74930e-cfc5-4fe7-98a3-75ed37373031" width="100%" />
+    <img width="100%" height="auto" alt="image" src="https://github.com/user-attachments/assets/a29b3214-9f94-4d31-a3cc-bb7a390d77a4" />
+
   </a>
 </div>
 
