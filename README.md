@@ -1,8 +1,8 @@
-<div align="center" style="margin-bottom:0;> 
-    <img width="1080" height="607" alt="image" src="https://github.com/user-attachments/assets/64b78b43-5acd-4c3d-9de5-43e95abbd3f1" />
+<p align="center" style="margin-bottom:0;>
+     <img width="100%" height="auto" src="https://github.com/user-attachments/assets/64b78b43-5acd-4c3d-9de5-43e95abbd3f1"/>
 <h1 align="center">Hi, I'm Fauzan <img src="https://bit.ly/3FzRfVz" width="30px"></h1>
 <h3 align="center">I'm a Front-End Web Developer based in India</h3>
-</div>
+</p>
 
 
 ## 😶 About Me
