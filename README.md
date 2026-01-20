@@ -7,7 +7,7 @@
 
 
 <h1 align="center">Hi, I'm Fauzan <img src="https://bit.ly/3FzRfVz" width="30px"></h1>
-<h3 align="center">I'm a Front-End Web Developer based in India</h3>
+<h3 align="center">I'm an AI-enthusiast & Web Developer based in India</h3>
 
 
 
@@ -15,7 +15,7 @@
 
 - 💻 I’m a Front-End Web Devloper 
 
-- 🚀 Web3 - Ai - Tech Enthusiast 
+- 🚀 AI - Web3 - Tech Enthusiast 
 
 - ✉️ You Can Contact Me Here: **[fauzansarwer@gmail.com](mailto:fauzansarwer@gmail.com)**
 
