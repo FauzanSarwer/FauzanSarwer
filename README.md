@@ -1,4 +1,5 @@
-<img width="100%" height="auto" alt="image" src="https://github.com/user-attachments/assets/45c466a7-1b93-466f-9cc4-63014d70e9d0" />
+<img width="1184" height="896" alt="image" src="https://github.com/user-attachments/assets/ca115cfb-7c37-4b80-ba55-30e2e61e3633" />
+
 <h1 align="center">Hi, I'm Fauzan <img src="https://bit.ly/3FzRfVz" width="30px"></h1>
 <h3 align="center">I'm a Front-End Web Developer based in India</h3>
 
